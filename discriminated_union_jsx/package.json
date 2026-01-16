@@ -1,0 +1,13 @@
+{
+  "name": "tstest",
+  "scripts": {
+    "ts": "tsc",
+    "tsgo": "tsgo"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.8",
+    "@typescript/native-preview": "^7.0.0-dev.20260115.1",
+    "typescript": "5.9.3",
+    "react": "^19.2.3"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "include": ["src/"],
+  "compilerOptions": {
+    "strict": true,
+    "module": "nodenext",
+    "jsx": "react-jsx",
+    "outDir": "build"
+  }
+}
